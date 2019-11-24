@@ -587,7 +587,7 @@ dependencies = [
 [[package]]
 name = "imgui-wgpu"
 version = "0.1.0"
-source = "git+https://github.com/robmikh/imgui-wgpu-rs.git?branch=shaderc#085b29ac8af1d5915d27dfda652ce6d2eac4a5fc"
+source = "git+https://github.com/robmikh/imgui-wgpu-rs.git?branch=shaderc#437a4b89c42aeae28066771e4427485e44af297b"
 dependencies = [
  "cgmath 0.17.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "env_logger 0.5.13 (registry+https://github.com/rust-lang/crates.io-index)",
